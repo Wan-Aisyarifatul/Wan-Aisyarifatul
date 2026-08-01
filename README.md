@@ -10,14 +10,16 @@ Computer Networks graduate (UiTM) — CCNA & CCNP Enterprise certified — with 
 ## 🌐 Networking & IT Support Projects
 - **[Smart Traffic Monitoring System Using IoT](https://github.com/Wan-Aisyarifatul/Smart-Traffic-and-Monitoring-System-Using-IoT)**
   Full-stack IoT system — Raspberry Pi Pico W (MicroPython), object detection dataset, PHP/MySQL backend. Final Year Project.
-- *(in progress)*
-  Coming soon.
+- **[Network Uptime & Data Quality Monitor](https://github.com/Wan-Aisyarifatul/network-uptime-monitoring)**
+  Python + SQL tool for monitoring host uptime, detecting anomalies, and visualizing latency trends.
+
 
 ## 📊 Data Analyst Projects
 - **[IT Service Desk Analytics Dashboard](https://github.com/Wan-Aisyarifatul/IT-Service-Desk-Ticket-Analysis-Dashboard)**
   Power BI dashboard tracking SLA compliance, team/agent performance, and customer satisfaction across 16,000+ tickets. Built with DAX and Power Query.
 - *(in progress)*
   Coming soon.
+
 
 ## 💻 Web Development
 - **[STARZUSS Food Ordering System](https://github.com/Wan-Aisyarifatul/StarZuss-Food-Ordering)**
