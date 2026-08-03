@@ -2,7 +2,7 @@
 
 Computer Networks graduate (UiTM) — CCNA & CCNP Enterprise certified — with hands-on experience across networking, IT support, and data analytics.
 
-📍 Selangor / Kuala Lumpur, Malaysia
+📍 Selangor, Malaysia
 🔗 [LinkedIn](https://www.linkedin.com/in/wan-aisyarifatul-nor-41a28b235)
 
 ---
