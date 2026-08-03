@@ -17,8 +17,8 @@ Computer Networks graduate (UiTM) — CCNA & CCNP Enterprise certified — with 
 ## 📊 Data Analyst Projects
 - **[IT Service Desk Analytics Dashboard](https://github.com/Wan-Aisyarifatul/IT-Service-Desk-Ticket-Analysis-Dashboard)**
   Power BI dashboard tracking SLA compliance, team/agent performance, and customer satisfaction across 16,000+ tickets. Built with DAX and Power Query.
-- *(in progress)*
-  Coming soon.
+- **[Sales Analytics & Business Intelligence Dashboard](https://github.com/Wan-Aisyarifatul/Sales-Analytics-Dashboard)**
+  Multi-page interactive dashboard with automated data cleaning, SQL-based reporting, and revenue forecasting. Built with Python, Pandas, SQL, and Streamlit
 
 
 ## 💻 Web Development
@@ -31,11 +31,17 @@ Computer Networks graduate (UiTM) — CCNA & CCNP Enterprise certified — with 
 
 ## 🛠️ Technical Skills
 **Networking:** CCNA/CCNP (Enterprise), LAN/WAN, TCP/IP, Network Troubleshooting
-**Data & Analytics:** Power BI (DAX, Power Query), SQL, Advanced Excel
-**Programming:** Python, PHP, JavaScript, C++, Java
+**Data & Analytics:** Power BI (DAX, Power Query), SQL (SQLite), Pandas, Advanced Excel, Data Cleaning & ETL
+**Programming & Frameworks:** Python, PHP, JavaScript, C++, Java, Streamlit
 
 ## 📜 Certifications
 - Cisco Certified Network Professional (CCNP) Enterprise: Advanced Routing
 - Cisco Certified Network Associate (CCNA): Enterprise Networking, Security and Automation
 - Cisco Certified Network Associate (CCNA): Switching, Routing and Wireless Essentials
 - Cisco Certified Network Associate (CCNA): Introduction to Networks
+- Introduction to IoT
+- National Training Work (NTW): Python For Visualisation Made Simple
+
+## 📚 Self-Directed Learning
+- SQL (SQLite) — applied through personal projects
+- Streamlit — Python web app framework for interactive dashboards
