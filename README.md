@@ -8,17 +8,17 @@ Computer Networks graduate (UiTM) — CCNA & CCNP Enterprise certified — with 
 ---
 
 ## 🌐 Networking & IT Support Projects
+- **[Network Monitoring & Incident SLA Dashboard](https://github.com/Wan-Aisyarifatul/network-uptime-monitoring)**
+  Python + SQL-based monitoring tool performing real-time ICMP uptime checks, automated incident alerting, SLA-style reporting, anomaly detection, and latency trend visualization, simulating NOC and IT Operations monitoring workflows.
 - **[Smart Traffic Monitoring System Using IoT](https://github.com/Wan-Aisyarifatul/Smart-Traffic-and-Monitoring-System-Using-IoT)**
-  Full-stack IoT system — Raspberry Pi Pico W (MicroPython), object detection dataset, PHP/MySQL backend. Final Year Project.
-- **[Network Uptime & Data Quality Monitor](https://github.com/Wan-Aisyarifatul/network-uptime-monitoring)**
-  Python + SQL tool for monitoring host uptime, detecting anomalies, and visualizing latency trends.
+  Full-stack IoT system integrating Raspberry Pi Pico W (MicroPython) with a PHP/MySQL backend and role-based web dashboard, enabling real-time sensor monitoring and network-based device control. Final Year Project.
 
 
 ## 📊 Data Analyst Projects
 - **[IT Service Desk Analytics Dashboard](https://github.com/Wan-Aisyarifatul/IT-Service-Desk-Ticket-Analysis-Dashboard)**
-  Power BI dashboard tracking SLA compliance, team/agent performance, and customer satisfaction across 16,000+ tickets. Built with DAX and Power Query.
+  Power BI dashboard tracking SLA compliance, team/agent performance, and customer satisfaction across 16,000+ tickets, built with DAX and Power Query.
 - **[Sales Analytics & Business Intelligence Dashboard](https://github.com/Wan-Aisyarifatul/Sales-Analytics-Dashboard)**
-  Multi-page interactive dashboard with automated data cleaning, SQL-based reporting, and revenue forecasting. Built with Python, Pandas, SQL, and Streamlit
+  Multi-page interactive dashboard with automated data cleaning, SQL-based reporting, and revenue forecasting, built with Python, Pandas, SQL, and Streamlit, and deployed live on Streamlit Community Cloud.
 
 
 ## 💻 Web Development
